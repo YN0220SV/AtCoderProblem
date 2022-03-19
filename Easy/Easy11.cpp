@@ -12,7 +12,7 @@ int main()
         if (k[i] > n)
         {
             cout << k[i - 1] << endl;
-            ;
+            
             return 0;
         }
     }
